@@ -1,0 +1,16 @@
+{
+    "lambda": true,
+    "ec2": true,
+    "vpc": true,
+    "s3": true,
+    "eks": true,
+    "elb": true,
+    "opensearch": true,
+    "rds": true,
+    "dynamodb": true,
+    "sqs": true,
+    "sns": true,
+    "apigateway": true,
+    "cloudwatch": true,
+    "kinesis": false
+}
