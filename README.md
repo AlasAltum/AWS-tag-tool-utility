@@ -77,11 +77,11 @@ The tool will:
 - [x] EC2 Instances
 - [x] VPCs
 - [x] S3 Buckets
-- [ ] RDS Instances (coming soon)
-- [ ] DynamoDB Tables (coming soon)
-- [ ] SQS Queues (coming soon)
-- [ ] SNS Topics (coming soon)
-- [ ] API Gateway (coming soon)
+- [X] RDS Instances
+- [X] DynamoDB Tables
+- [X] SQS Queues
+- [X] SNS Topics
+- [X] API Gateway
 
 ## Security
 
