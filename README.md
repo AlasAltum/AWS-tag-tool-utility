@@ -96,4 +96,4 @@ MIT
 
 ## Coding
 
-Coded mostly with SWE-1. I am just an architect :)
+Coded mostly with SWE-1. I am just a solutions architect :)
