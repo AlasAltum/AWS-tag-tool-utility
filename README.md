@@ -1,6 +1,6 @@
 # AWS Resource Tagging Tool
 
-A command-line tool to automatically tag AWS resources with a 'Name' tag based on their existing resource name or ID. This helps in better cost allocation and resource management.
+A command-line tool to automatically tag AWS resources with a 'Name' tag based on their existing resource name or ID. This helps with better cost allocation and resource management.
 
 ## Features
 
